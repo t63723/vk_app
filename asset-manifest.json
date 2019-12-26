@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vk-app/static/css/main.981f7211.chunk.css",
+    "main.js": "/vk-app/static/js/main.aca30e72.chunk.js",
+    "main.js.map": "/vk-app/static/js/main.aca30e72.chunk.js.map",
+    "runtime-main.js": "/vk-app/static/js/runtime-main.29aeed70.js",
+    "runtime-main.js.map": "/vk-app/static/js/runtime-main.29aeed70.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/vk-app/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.8cf8f62d.chunk.js": "/vk-app/static/js/2.8cf8f62d.chunk.js",
+    "static/js/2.8cf8f62d.chunk.js.map": "/vk-app/static/js/2.8cf8f62d.chunk.js.map",
+    "index.html": "/vk-app/index.html",
+    "precache-manifest.c7fa5a32af073306d0d8f03c8c7b4703.js": "/vk-app/precache-manifest.c7fa5a32af073306d0d8f03c8c7b4703.js",
+    "service-worker.js": "/vk-app/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/vk-app/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vk-app/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/vk-app/static/media/persik.4e1ec840.png"
+  }
+}
